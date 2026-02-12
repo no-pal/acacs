@@ -1,31 +1,11 @@
-#include <stdio.h>  
-void twenty()
-{
-for(int i=2; i<=20; i++)
-    {
-        printf("%d\n", i);
-    }
-}
-void ten()
-{
-for(int i=0; i<=10; i++)
-    {
-        printf("%d\n", i);
-    }
-}
-void forty()
-{
-    for(int i=2;i<=20;i++)
-    {
-        printf("%d\n", i);
-    }
-    
-       
- }
+#include <stdio.h>
+
+int arr(85);
+
+int a[20][20]
+
 int main(){
-{
-    twenty();
-    ten();
-    forty();
-}
+    for (int  i=0; i=<84; i++)
+        printf()
+
 }
